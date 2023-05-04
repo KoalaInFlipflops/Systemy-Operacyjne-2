@@ -1,0 +1,7 @@
+echo >&2 "Permission denied to B directory"
+echo >&2 "PERMISSION DENIED do A file"
+echo >&2 "PERMISSION DENIED do A file"
+echo >&2 "Some random error"
+echo >&2 "Not a permission denied error"
+echo >&2 "PERMISSION DENIED do A file"
+echo >&2 "Random error"
